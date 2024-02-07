@@ -1,4 +1,4 @@
-# ez2pyd
+# jmpy3
 
 ![](https://img.shields.io/badge/python-3.0-brightgreen)
 
@@ -12,10 +12,10 @@ Git仓库地址: https://github.com/Vivybestwaifu/ez2pyd.git
 
 ## 安装
 
-    pip install ez2pyd
+    pip install jmpy3
 
 ## 使用方法
 
-    ez2pyd -i "xxx project dir" [-o output dir]
+    jmpy3 -i "xxx project dir" [-o output dir]
 
 加密后的文件默认存储在 dist/project_name/ 下
