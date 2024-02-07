@@ -8,7 +8,7 @@ Fork from https://github.com/Boris-code/jmpy.git
 
 将python代码一键加密为so或pyd。支持单个文件加密，整个项目加密。
 
-Git仓库地址: https://github.com/Vivybestwaifu/ez2pyd.git
+Git仓库地址: https://github.com/Vivybestwaifu/jmpy.git
 
 ## 安装
 
